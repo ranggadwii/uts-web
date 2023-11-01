@@ -21,7 +21,7 @@
                         <div class="card-body">
                             <form action="php/con_register.php" method="POST">
                                 <input type="text" name="username" id="username" class="form-control my-4 py-2" placeholder="Username">
-                                <input type="text" name="password" id="password" class="form-control my-4 py-2" placeholder="Password">
+                                <input type="password" name="password" id="password" class="form-control my-4 py-2" placeholder="Password">
                                 <button type="submit" class="btn btn-primary">Register</button>
                             </form>
                         </div>

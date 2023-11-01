@@ -2,7 +2,7 @@
 $server = "localhost";
 $user = "root";
 $password = "";
-$db = "database1";
+$db = "rangga";
 
 $connect = mysqli_connect($server, $user, $password, $db);
 if (!$connect){

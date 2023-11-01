@@ -21,7 +21,7 @@
                         <div class="card-body">
                             <form action="php/con_login.php" method="POST">
                                 <input type="text" name="username" id="username" class="form-control my-4 py-2" placeholder="Username">
-                                <input type="text" name="password" id="password" class="form-control my-4 py-2" placeholder="Password">
+                                <input type="password" name="password" id="password" class="form-control my-4 py-2" placeholder="Password">
                                 <a href="register.php" class="nav-link">Belum punya akun?</a>
                                 <button type="submit" class="btn btn-primary">Login</button>
                             </form>
